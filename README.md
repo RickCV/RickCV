@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @RickCV
+- 👀 I’m interested in bioinformatics
